@@ -1,5 +1,5 @@
 # EXCEL_YouTube_views_forecast
-**Project Objective:**
+**Project Objectives:**
 Forecast future video views with a high degree of accuracy.
 Provide insights into video performance trends over time.
 Enable content creators to plan content releases and promotional activities more effectively.
